@@ -1,3 +1,8 @@
 # HW1
 
-Developed with Unreal Engine 5
+## Repository:
+- https://github.com/CamdenThomas/HW1-CS310
+
+
+## Video:
+- 
